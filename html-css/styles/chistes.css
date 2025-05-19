@@ -1,0 +1,38 @@
+body{
+  background-color: #fbc79e;
+}
+.container {
+  margin: auto;
+  width: 900px;
+}
+
+p{
+  margin: 0;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+.green{
+  background-color: #8AD0BF;
+  border: 5px solid #64988B;
+}
+.gray{
+  background-color: lightgray;
+  border: 5px dotted #848484;
+}
+.yellow{
+  background-color: #FFFFB5;
+  border: 5px solid #FFFF00;
+}
+.double-border{
+  border: 5px double #848484;
+}
+.purple-dotted {
+  background-color: #DFDAF2;
+  border: 5px dashed #A89ADA;
+}
+.chiste{
+  margin-top: 10px;
+  padding: 10px;
+}

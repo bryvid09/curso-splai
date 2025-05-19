@@ -1,0 +1,55 @@
+body {
+  background-color: #BEC1B0;
+}
+
+.container {
+  font-family: sans-serif;
+  font-size: 25px;
+  width: 1250px;
+  margin: auto;
+
+  h1 {
+    text-transform: uppercase;
+    letter-spacing: 50px;
+    text-align: right;
+    color: #1A1883;
+    font-size: 50px;
+  }
+
+  h2 {
+    color: white;
+    background-color: #5B6134;
+    padding-top: 5px;
+    margin: 0;
+  }
+
+  .florencia1 {
+    display: block;
+    margin: auto;
+  }
+
+  .article2 {
+    display: flex;
+    margin-top: 15px;
+
+    h2 {
+      padding-left: 30px;
+    }
+  }
+
+  .florencia_2_texto {
+    margin-left: 30px;
+  }
+
+  .article3 {
+    margin-top: 15px;
+
+    img {
+      float: right;
+    }
+
+    span {
+      font-weight: bold;
+    }
+  }
+}

@@ -1,0 +1,51 @@
+body{
+  margin-top: 0;
+}
+h1{
+  background-color: #BBBBBB;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+h2{
+  background-color: #DDDDDD;
+  margin-top: 0;
+  text-align: end;
+  padding-bottom: 10px;
+  border-bottom: 3px dashed #BBBBBB;
+}
+
+h3{
+  background-color: #EEEEEE;
+  padding: 10px;
+  margin-top: 0;
+}
+
+h4 {
+  margin: 0;
+  background-color: #BBBBBB;
+  text-align: end;
+  color: white;
+}
+
+.container-anuncios{
+  display: flex;
+  gap: 10px;
+}
+.col-anuncio{
+  width: 180px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  border: 1px solid black;
+  border-inline: 3px dashed #BBBBBB
+}
+
+.anuncio{
+  border: 1px solid #000;
+  .descripcion{
+    padding: 10px;
+  }
+  margin-bottom: 10px;
+  overflow: auto;
+}

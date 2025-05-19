@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  width: 900px;
+  margin: auto;
+}
+.left-container{
+  border-right: 1px solid black;
+  p{
+    margin: 0;
+    text-align: center;
+  }
+  img{
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+  }
+}
+.right-container{
+  padding: 20px;
+}

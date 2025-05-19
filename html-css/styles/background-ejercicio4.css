@@ -1,0 +1,7 @@
+div {
+  width: 400px;
+  height: 400px;
+  background: url(../imagen/mundo.svg) no-repeat left/200px,
+    url(../imagen/tijeras.svg) no-repeat bottom right,
+    radial-gradient(ellipse at center, #f931a3 0%, #47aa20 51%, #7db9e8 100%);
+}

@@ -1,0 +1,36 @@
+body{
+  background-color: #C6D8EE;
+}
+.contenedora {
+  font-family: sans-serif;
+  width: 1200px;
+  margin: auto;
+}
+h1 {
+  font-size: 50px;
+  text-align: end;
+}
+.bold-wine{
+  color: #A5292A;
+  font-weight: bold;
+}
+.white-green{
+  color: #008001;
+  background-color: white;
+}
+.blue-tall{
+  color: #0000FF;
+  font-size: 50px;
+}
+.under{
+  border-bottom: 1px solid #A5292A;
+}
+.under-color-wine{
+  color: #A5292A;
+  border-bottom: 1px solid #A5292A;
+}
+.under-upper{
+  color: #A5292A;
+  border-bottom: 1px solid #A5292A;
+  border-top: 1px solid #A5292A;
+}

@@ -1,0 +1,17 @@
+.container{
+  background-image: url(../imagen/panteon.png);
+  margin: auto;
+  width: 720px;
+  height: 480px;
+  .container-parrafos{
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    gap: 110px;
+    height: 195px;
+    p {
+      overflow: auto;
+    }
+  }
+
+}

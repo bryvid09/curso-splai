@@ -1,0 +1,38 @@
+body{
+  background-color: #297453;
+}
+h1{
+  color: white;
+  font-size: 50px;
+}
+.white-black{
+  background-color: white;
+  border: 5px solid black;
+  margin: auto;
+  width: 600px;
+  padding: 10px;
+}
+.brown-solid{
+  background-color: #A95A3A;
+  border: 5px solid #852501;
+  width: 600px;
+  padding: 10px;
+  color: white;
+  margin-top: 15px;
+}
+.lightbrown-solid{
+  background-color: #AA7A3A;
+  border: 5px solid #864D01;
+  width: 600px;
+  padding: 10px;
+  margin-left: auto;
+}
+.blue-dashed{
+  background-color: #2A506C;
+  border: 5px dashed #697B8A;
+  width: 600px;
+  margin: auto;
+  color: white;
+  padding: 10px;
+  margin-top: 15px;
+}
