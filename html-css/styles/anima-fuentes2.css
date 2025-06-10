@@ -1,0 +1,21 @@
+div {
+  font-size: 80px;
+  width: 400px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: -70px -60px #1111FF,
+    50px -60px #FFA503,
+    -70px 60px #9C2F28,
+    50px 60px #028100;
+  transition: 2s;
+}
+
+div:hover {
+  text-shadow: 50px 60px red,
+    -70px -60px #1111FF,
+    50px -60px #028100,
+    -70px 60px #FFA503;
+  transition: 1s;
+}
